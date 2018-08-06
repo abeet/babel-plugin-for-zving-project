@@ -1,0 +1,20 @@
+{
+  "name": "babel-plugin-for-zving-project",
+  "version": "1.0.3",
+  "description": "为泽元前端工程二次开发，将export的对象组织到zving命名空间下",
+  "author": "http://www.zving.com",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abeet/babel-plugin-for-zving-project.git"
+  },
+  "keywords": [
+    "babel-plugin",
+    "zving"
+  ],
+  "homepage": "https://github.com/abeet/babel-plugin-for-zving-project#readme",
+  "engines": {
+    "node": ">=7.0.0"
+  },
+  "license": "ISC"
+}
