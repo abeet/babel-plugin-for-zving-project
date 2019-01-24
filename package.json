@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-for-zving-project",
-  "version": "1.0.3",
+  "version": "1.1.4",
   "description": "为泽元前端工程二次开发，将export的对象组织到zving命名空间下",
   "author": "http://www.zving.com",
   "main": "index.js",
@@ -16,5 +16,8 @@
   "engines": {
     "node": ">=7.0.0"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "babel-types": "^6.26.0"
+  }
 }
